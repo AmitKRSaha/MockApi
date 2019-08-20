@@ -11,7 +11,7 @@ namespace ApiMock.Controllers
     public class ValuesController : ControllerBase
     {
 
-        // GET api/values/5
+        // GET http://localhost:5000/api/values/5
         [HttpGet("{id}")]
         
         public ActionResult<string> GetData(int id)
@@ -19,7 +19,7 @@ namespace ApiMock.Controllers
             return "value";
         }
 
-        // POST api/values
+        // POST http://localhost:5000/api/values/second
         [HttpPost]
         [Route("second")]
         public ActionResult<string> SecondData([FromBody] string value)
@@ -27,7 +27,7 @@ namespace ApiMock.Controllers
             return "value1";
         }
 
-        // POST api/values
+        // POST http://localhost:5000/api/values/third
         [HttpPost]
         [Route("third")]
         public ActionResult<string> ThirdData([FromBody] string value)
