@@ -1,0 +1,14 @@
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/bin/Debug/netcoreapp2.2/ApiMock.deps.json
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/bin/Debug/netcoreapp2.2/ApiMock.runtimeconfig.json
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/bin/Debug/netcoreapp2.2/ApiMock.runtimeconfig.dev.json
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/bin/Debug/netcoreapp2.2/ApiMock.dll
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/bin/Debug/netcoreapp2.2/ApiMock.pdb
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.csprojAssemblyReference.cache
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.csproj.CoreCompileInputs.cache
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.RazorAssemblyInfo.cache
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.RazorAssemblyInfo.cs
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.AssemblyInfoInputs.cache
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.AssemblyInfo.cs
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.RazorTargetAssemblyInfo.cache
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.dll
+/Users/amisaha/Downloads/Projects/APIStub/ApiMock/obj/Debug/netcoreapp2.2/ApiMock.pdb
