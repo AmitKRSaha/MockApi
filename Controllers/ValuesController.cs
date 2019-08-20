@@ -16,7 +16,7 @@ namespace ApiMock.Controllers
         
         public ActionResult<string> GetData(int id)
         {
-            return "value";
+            return "value1";
         }
 
         // POST http://localhost:5000/api/values/second
@@ -24,6 +24,10 @@ namespace ApiMock.Controllers
         [Route("second")]
         public ActionResult<string> SecondData([FromBody] string value)
         {
+            if(value.Contains("value1"))
+            {
+                return "value2";
+            }
             return "value1";
         }
 
@@ -32,7 +36,11 @@ namespace ApiMock.Controllers
         [Route("third")]
         public ActionResult<string> ThirdData([FromBody] string value)
         {
-            return "value2";
+            if(value.Contains("value2"))
+            {
+                return "value3";
+            }
+            return "value1";
         }
     }
 }
